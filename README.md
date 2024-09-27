@@ -114,7 +114,7 @@ expense-cli --help
 ## Source `Roadmap` from `task-tracker`
 
 - [Project URL](https://roadmap.sh/projects/expense-tracker)
-<!-- - [Solution in Roadmap](https://roadmap.sh/projects/task-tracker/solutions?u=66bbc7704e7fe8964e18278f) -->
+- [Solution in Roadmap](https://roadmap.sh/projects/expense-tracker/solutions?u=66bbc7704e7fe8964e18278f)
 
 ## Contributions
 
