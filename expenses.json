@@ -1,0 +1,102 @@
+[
+  {
+    "id": "c9d49931-5e63-42c4-95e4-c2d296fbeb08",
+    "name": "nuevopopo-c2d296fbeb08",
+    "amount": 200,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "ENTERTAINMENT",
+    "createdAt": "2024-09-27T13:38:37.907Z",
+    "updatedAt": "2024-09-27T19:27:50.445Z"
+  },
+  {
+    "id": "6d876514-c929-41c5-aeaf-0caaa6ccfc59",
+    "name": "nuevo-0caaa6ccfc59",
+    "amount": 400,
+    "description": "pepelo",
+    "status": "PAID",
+    "category": "ENTERTAINMENT",
+    "createdAt": "2024-09-27T18:59:17.232Z",
+    "updatedAt": "2024-09-27T20:34:53.847Z"
+  },
+  {
+    "id": "0efeb836-cfab-4cfd-a6a8-bc946d759b9b",
+    "name": "nuevo-bc946d759b9b",
+    "amount": 400,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T19:08:48.505Z",
+    "updatedAt": "2024-09-27T19:08:48.505Z"
+  },
+  {
+    "id": "cee1f66e-07bd-4386-a2a8-9366dce839e8",
+    "name": "nuevo-9366dce839e8",
+    "amount": 20000,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T19:10:17.530Z",
+    "updatedAt": "2024-09-27T19:10:17.530Z"
+  },
+  {
+    "id": "e16a00c8-b26e-4649-ac70-ad3a68888497",
+    "name": "nuevo-ad3a68888497",
+    "amount": 400,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T19:12:54.128Z",
+    "updatedAt": "2024-09-27T19:12:54.128Z"
+  },
+  {
+    "id": "b85a59a6-095d-43eb-81b5-8aee021ef63e",
+    "name": "nuevo-8aee021ef63e",
+    "amount": 400,
+    "description": "nueo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T19:14:55.901Z",
+    "updatedAt": "2024-09-27T19:14:55.901Z"
+  },
+  {
+    "id": "f96b7206-cfa0-44e6-b9d3-564d64f019d9",
+    "name": "nuevo-564d64f019d9",
+    "amount": 400,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T19:15:15.910Z",
+    "updatedAt": "2024-09-27T19:15:15.910Z"
+  },
+  {
+    "id": "f0870948-1776-4329-9c6f-5f4a120da359",
+    "name": "nuevo-5f4a120da359",
+    "amount": 400,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T19:17:43.785Z",
+    "updatedAt": "2024-09-27T19:17:43.785Z"
+  },
+  {
+    "id": "731cfec0-3200-41a0-9741-d862862ec158",
+    "name": "nuevo-d862862ec158",
+    "amount": 400,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T19:24:18.034Z",
+    "updatedAt": "2024-09-27T19:24:18.034Z"
+  },
+  {
+    "id": "e06cee69-a8ca-493e-b326-316336751052",
+    "name": "nuevo-316336751052",
+    "amount": 300,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T20:34:23.091Z",
+    "updatedAt": "2024-09-27T20:34:23.091Z"
+  }
+]
