@@ -23,12 +23,12 @@ export class CommandRouter {
   constructor(expenseRepository: ExpenseRepository) {
     this.expenseRepository = expenseRepository;
     this.commandRegistry = new Map<string, CommmandConstructor>([
-      ['add-expense', AddExpenseCommand],
-      ['update-expense', UpdateExpenseCommand],
-      ['update-expense-status', UpdateExpenseStatusCommand],
-      ['update-expense-category', UpdateExpenseCategoryCommand],
-      ['list-expense', ListExpensesCommand],
-      ['delete-expense', DeleteExpenseCommand],
+      ['add', AddExpenseCommand],
+      ['update', UpdateExpenseCommand],
+      ['update-status', UpdateExpenseStatusCommand],
+      ['update-category', UpdateExpenseCategoryCommand],
+      ['list', ListExpensesCommand],
+      ['delete', DeleteExpenseCommand],
       ['get-expense', GetExpenseCommand],
     ]);
   }

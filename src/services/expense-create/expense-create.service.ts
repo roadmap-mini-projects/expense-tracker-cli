@@ -4,7 +4,7 @@ import { Expense } from '../../models/expense.model';
 import { ExpenseRepository } from '../../repositories/expense.repository';
 import { ExpenseValidationService } from '../expense-validation/expense-validation.service';
 import { LoggerWinston } from '../../config/logger';
-import { ExpenseExistService } from '../expense--exist/expense-exist.service';
+import { ExpenseExistService } from '../expense-exist/expense-exist.service';
 
 export class ExpenseCreateService {
   private readonly logger: LoggerWinston;

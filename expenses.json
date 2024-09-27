@@ -98,5 +98,15 @@
     "category": "FOOD",
     "createdAt": "2024-09-27T20:34:23.091Z",
     "updatedAt": "2024-09-27T20:34:23.091Z"
+  },
+  {
+    "id": "3fcde9d7-d8a8-45ee-b2a3-ba742bf68371",
+    "name": "nuevo-ba742bf68371",
+    "amount": 400,
+    "description": "nuevo",
+    "status": "TOPAY",
+    "category": "FOOD",
+    "createdAt": "2024-09-27T22:22:56.577Z",
+    "updatedAt": "2024-09-27T22:22:56.577Z"
   }
 ]

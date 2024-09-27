@@ -12,7 +12,7 @@ import { ExpenseListService } from './expense-list/expense-list.service';
 import { ExpenseGetByNameService } from './expense-get-by-name/expense-get-by-name.service';
 import { ExpenseUpdateStatusService } from './expense-update-status/expense-update-status.service';
 import { ExpenseUpdateCategoryService } from './expense-update-category/expense-update-category.service';
-import { ExpenseExistService } from './expense--exist/expense-exist.service';
+import { ExpenseExistService } from './expense-exist/expense-exist.service';
 
 export class ExpenseService {
   private readonly expenseRepository: ExpenseRepository;
